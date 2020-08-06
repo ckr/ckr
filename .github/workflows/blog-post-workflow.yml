@@ -13,4 +13,5 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
+          gh_token: ${{ secrets.BLOG_POST_BOT_TOKEN }}
           feed_list: "https://kouloumbris.com/feed.xml"
