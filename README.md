@@ -2,7 +2,7 @@
 
 ## I'm a Security Engineer, Developer, Photographer and more!
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on 🤫 it's a secret... 😜
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: I have a weakness for good coffee.
 
