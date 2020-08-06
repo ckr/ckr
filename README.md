@@ -1,13 +1,34 @@
-### Hi there 👋
+### Hi there, I'm [Constantinos Kouloumbris][website] 👋
 
-- 💬 Ask me about security, software development, photography...
+## I'm a Security Engineer, Developer, Photographer and more!
+
+- 🔭 I’m currently working on 
+- 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: I have a weakness for good coffee.
-- 📝 More on [kouloumbris.com](https://kouloumbris.com)
 
-<p align="center">
-📫 How to reach me:<br/><br/>
-<a href="https://twitter.com/justckr" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="justckr" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/justckr" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="justckr" height="30" width="30" /></a>
-<a href="https://fb.com/justckr" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="justckr" height="30" width="30" /></a>
-<a href="https://instagram.com/justckr" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="justckr" height="30" width="30" /></a>
-</p>
+### 📫 Connect with me:
+
+[<img align="left" alt="kouloumbris.com" width="32px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="justckr | Twitter" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="justckr | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="justckr | Facebook" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][linkedin]
+[<img align="left" alt="justckr | Instagram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="justckr | Flickr" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flickr.svg" />][instagram]
+
+<br/><br/>
+
+---
+
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+<img align="left" alt="ckr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ckr&show_icons=true&hide_border=true" />
+
+[website]: https://kouloumbris.com
+[twitter]: https://twitter.com/justckr
+[linkedin]: https://linkedin.com/in/justckr
+[facebook]: https://fb.com/justckr
+[instagram]: https://instagram.com/justckr
