@@ -11,9 +11,9 @@
 [<img align="left" alt="kouloumbris.com" width="32px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="justckr | Twitter" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="justckr | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="justckr | Facebook" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][linkedin]
+[<img align="left" alt="justckr | Facebook" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="justckr | Instagram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="justckr | Flickr" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flickr.svg" />][instagram]
+[<img align="left" alt="justckr | Flickr" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flickr.svg" />][flickr]
 
 <br/><br/>
 
@@ -37,3 +37,4 @@
 [linkedin]: https://linkedin.com/in/justckr
 [facebook]: https://fb.com/justckr
 [instagram]: https://instagram.com/justckr
+[flickr]: https://www.flickr.com/photos/justckr
