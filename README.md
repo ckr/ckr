@@ -21,11 +21,6 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [URL Shortener](https://kouloumbris.com/archives/url-shortener/)
-- [DotFiles](https://kouloumbris.com/archives/dotfiles/)
-- [Site update](https://kouloumbris.com/archives/site-update/)
-- [Dropbox - Keep in Sync](https://kouloumbris.com/archives/dropbox-keep-in-sync/)
-- [Redirect domain to subfolder](https://kouloumbris.com/archives/redirect-domain-to-subfolder/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
