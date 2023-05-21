@@ -10,6 +10,7 @@
 
 [<img align="left" alt="kouloumbris.com" width="32px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="justckr | Twitter" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="justckr@mastodon.social | Mastodon" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mastodon.svg" />][mastodon]
 [<img align="left" alt="justckr | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="justckr | Facebook" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="justckr | Instagram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -20,7 +21,9 @@
 ---
 
 ### 📕 Latest Blog Posts
+
 <!-- BLOG-POST-LIST:START -->
+
 - [URL Shortener](https://kouloumbris.com/archives/url-shortener/)
 - [DotFiles](https://kouloumbris.com/archives/dotfiles/)
 - [Site update](https://kouloumbris.com/archives/site-update/)
