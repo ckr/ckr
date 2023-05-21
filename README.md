@@ -37,6 +37,7 @@
 
 [website]: https://kouloumbris.com
 [twitter]: https://twitter.com/justckr
+[mastodon]: https://mastodon.social/@justckr
 [linkedin]: https://linkedin.com/in/justckr
 [facebook]: https://fb.com/justckr
 [instagram]: https://instagram.com/justckr
